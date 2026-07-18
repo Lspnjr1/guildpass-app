@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/real-session-resolution-141",
+    "fix/member-role-reconciliation-race-180",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/real-session-resolution-141": "main",
+    "fix/member-role-reconciliation-race-180": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/real-session-resolution-141",
+    "fix/member-role-reconciliation-race-180",
+    "origin"
+  ]
+}
